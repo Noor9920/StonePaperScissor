@@ -1,0 +1,18 @@
+Title: Game of  Stone, Paper, Scissor.
+
+	The program is for a game Stone, Paper, Scissor. In this 
+program the player is asked to guess either of stone,paper,scissor.
+then the computer select one of them and  the program compares
+both of them and shows the result.
+
+Functions Used:
+Random
+Time
+
+Description:
+	The program uses 2 functions random and time. The 
+Random functions generates random guess. The user is asked for 
+a guess of Rock, Paper, Scissor. Then both the guess of player and
+computer is compared and results were shown. The Time functions
+were used for delaying the program for making the game more
+interesting.
