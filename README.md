@@ -1,2 +1,2 @@
 # StonePaperScissor
-Game of stonr  zxfp sdxfnl/
+Game of Stone,Paper&Scissor
